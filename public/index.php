@@ -23,6 +23,7 @@
       <!-- JS -->
       <script 
         src="../src/features/main.js" 
+        type="module"
         defer>
       </script>
   </head>
